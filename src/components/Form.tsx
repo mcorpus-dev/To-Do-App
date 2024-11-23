@@ -58,6 +58,7 @@ const styles = StyleSheet.create({
   },
   textInput: {
     flex: 1,
+    color: "black",
     borderBottomColor: "black",
     borderBottomWidth: 1,
   },

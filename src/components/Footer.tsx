@@ -14,6 +14,7 @@ export default Footer;
 
 const styles = StyleSheet.create({
   text: {
+    color: "black",
     fontStyle: "italic",
   },
 });
